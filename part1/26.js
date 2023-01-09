@@ -15,10 +15,13 @@ let obj = {}; // object literal
 // console.log(fruits);
 // fruits[1] = "banana";
 // console.log(fruits);
-console.log(typeof fruits);
-console.log(typeof obj);
-console.log(Array.isArray(fruits));
-console.log(Array.isArray(obj));
+console.log(typeof fruits);  //gives o/p : Object 
 
+console.log(typeof obj);     // gives o/p : Object 
+
+console.log(Array.isArray(fruits));  //true
+
+console.log(Array.isArray(obj));  //false
+  
 
 // array indexing 
