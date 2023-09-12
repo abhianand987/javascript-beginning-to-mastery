@@ -1,7 +1,7 @@
-// trim() 
+// trim()  ---> Removes Spaces
 // toUpperCase()
 // toLowerCase()
-// slice()
+// slice(startIndex,endIndex) and startIndex -> Inclusive and endIndex -> Exclusive.
 
 let firstName = "harshit";
 
