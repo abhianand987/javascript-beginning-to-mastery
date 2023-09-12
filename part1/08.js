@@ -9,15 +9,14 @@
 // BigInt
 // Symbol
 
-// let age = 22; 
-// let firstName = "harshit";
+ let age = 22; 
+ let firstName = "harshit";
 
-// // console.log(typeof age);
-
-// // 22 -> "22"
+ console.log(typeof age);  //number
+// 22 -> "22"
 // // convert number to string. 
-// age = age + "";
-// console.log(typeof(age)); "22"
+  age = age + "";
+  console.log(typeof(age)); "22"
 
 
 // // convert string to number. 
